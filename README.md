@@ -59,6 +59,6 @@ nama asistem praktikum 2: David Panondang Sinaga
 |----------- |----------|
 | Vidio | https://youtu.be/bTXkgUneGso |
 | Laporan | |https://github.com/Gazzaalkaromi/Pbl-pks-2 |
-| Program | | https://github.com/anitaaaaaaaaaaaa/sari/commit/7af194369049574495adcb15d4b0dcfb55676dd1 |
+| Program | | https://github.com/Gazzaalkaromi/Pbl-pks-2/blob/020d897bba591fc82c0300a89769911ba7bc5975/README.md |
 | Program Running | https://replit.com/@SEPTYENGEL/ShockingNoxiousReality |
 ·
