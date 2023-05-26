@@ -1,21 +1,4 @@
-Skip to content
-Sign up
-anitaaaaaaaaaaaa
-/
-sari
-Public
-Code
-Issues
-Pull requests
-Actions
-Projects
-Security
-Insights
-sari/KEL 15 PKS
-@anitaaaaaaaaaaaa
-anitaaaaaaaaaaaa Update and rename README.md to KEL 15 PKS
- 1 contributor
-45 lines (31 sloc)  1.68 KB
+
 # MANAJEMEN ENERGI TERBARUKAN DENGAN PANEL SURYA
 Program ini berguna untuk menghitung dan menegtahui jumlah konsumsi dan produksi energy listrik dan rumah tangga.
 
